@@ -12,3 +12,4 @@ env/
 __pycache__/
 
 *.log
+models/
