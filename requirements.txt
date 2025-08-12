@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+yfinance
+
+# Time Series & Statistics
+statsmodels
+pmdarima
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Portfolio Optimization
+PyPortfolioOpt
+
+# Utilities
+ipykernel
